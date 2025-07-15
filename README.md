@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Emicarrada 👋</h1>
+<h1 align="center">¡Hola! Soy Cristopher Carrada 👋</h1>
 
 <div align="center">
 <a href="https://emicarrada.com">
@@ -7,7 +7,7 @@
 </div>
 
 <h4 align="center">
-  <b><a href="https://emicarrada.com">Portafolio</a></b>
+  <b><a href="https://emicarrada.com">Sitio Web</a></b>
   •
   <b><a href="https://www.linkedin.com/in/emicarrada">LinkedIn</a></b>
   •
@@ -43,7 +43,7 @@ Actualmente trabajo en:
 ## 📬 Contáctame  
 
 <a href="https://x.com/emicarrada" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/x-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/emicarrada" target="_blank">
