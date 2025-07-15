@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://emicarrada.com">
-  <img src="https://emicarrada.com/LogoAzul.png" height=200 />
+  <img src="https://emicarrada.com/logoemicarrada.png" height=200 />
 </a>
 </div>
 
